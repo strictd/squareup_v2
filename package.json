@@ -1,5 +1,5 @@
 {
-  "name": "@strictd/squareup_v2",
+  "name": "@strictd/squareup-v2",
   "version": "1.0.0",
   "description": "squareup v2 proxy library",
   "main": "index.ts",
